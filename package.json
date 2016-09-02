@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/erickeno/excel-to-csv.git"
+    "url": "https://github.com/erickeno/excel-to-CSV.git"
   },
   "keywords": [],
   "author": "Erick Bett",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/erickeno/excel-to-csv/issues"
+    "url": "https://github.com/erickeno/excel-to-CSV/issues"
   },
-  "homepage": "https://github.com/erickeno/excel-to-csv",
+  "homepage": "https://github.com/erickeno/excel-to-CSV",
   "dependencies": {
     "json2csv": "^3.6.3",
     "xlsx": "^0.8.0"

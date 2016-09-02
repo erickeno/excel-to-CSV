@@ -1,5 +1,22 @@
-## Excel To CSV (JS Library)
+## Excel To CSV
+This is a simple node module for changing excel file into CSV.
 
+NOTE: this module is not ready for any production us - still a working progress
+
+### Install
+
+```shell
+npm install --save excel-to-csv
+```
+
+### Usage
+
+```
+import { excelToCSV } from 'excel-to-csv'
+excelToCSV(inputFile);
+```
+
+#### inputFile
 
 ### License
 The MIT License (MIT)
