@@ -11,7 +11,7 @@ npm install --save excel-to-csv
 
 ### Usage
 
-```
+```javascript
 import { excelToCSV } from 'excel-to-csv'
 excelToCSV(inputFile);
 ```
