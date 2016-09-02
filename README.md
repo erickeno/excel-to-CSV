@@ -13,6 +13,7 @@ npm install --save excel-to-csv
 
 ```javascript
 import { excelToCSV } from 'excel-to-csv'
+
 excelToCSV(inputFile);
 ```
 
