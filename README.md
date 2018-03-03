@@ -1,4 +1,6 @@
 ## Excel To CSV
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/erickeno/excel-to-CSV.svg)](https://greenkeeper.io/)
 This is a simple node module for changing excel file into CSV.
 
 NOTE: this module is not ready for any production use - still a working progress
